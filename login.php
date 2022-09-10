@@ -39,7 +39,7 @@
     <!--External Core Css start-->
 
     <link href="css/default.css" rel="stylesheet" type="text/css" />
-    <link href="css/s" rel="stylesheet" type="text/css" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link href="css/responsive.css" rel="stylesheet" type="text/css" />
     <link href="css/animate.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="css/owl.carousel.min.css">
@@ -55,61 +55,7 @@
     <link rel="stylesheet" href="css/animated.css">
 
 </head>  
- <style>
-
-    
-.login-form-box  h1{
-         background-color: #13d513;
-          color: white;
-          font-size: 30px;
-          font-weight: 600;
-          text-align: center;
-          padding: 20px;
-          margin-bottom: 20px;
-      }
-      .login-form-box{
-        padding-top: 15%;
-  background-image: url(./images/img-bg.jpg);
-  background-size: cover;
-  height: 900px;
-
-}
-.login-form-box h5{
-    font-weight: 900;
-    position: absolute;
-    top: 50px;
-    left: 30%;
-    font-size: 80px;
-    color: white;
-}
-.login-form-box #frm{
-    padding-top: 100px;
-    background-color: white;
-    padding: 20px;
-    border-radius: 20px;
-}
-.login-form-box .submit{
-    width: 100%;
-    margin-top: 30px;
-    padding: 8px;
-    font-weight: 700;
-    font-size: 23px;
-    border-radius: 20px;
-    border: none;
-    outline: none;
-    background-color: #13d513;
-    color: white;
-}
-.login-form-box .form-control{
-    padding: 25px;
-    border-radius:20px;
-}
-.login-form-box label{
-    font-weight: 700px;
-    font-size: 20px;
-}
-
- </style>
+ 
 <body style="background-color: whitesmoke; ">  
    
     <div class="login-form-box"> 
